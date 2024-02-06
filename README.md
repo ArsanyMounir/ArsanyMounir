@@ -4,10 +4,10 @@
 
 # About me  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50 />
 **`Embedded Software Developer | Enthusiastic Learner`**
-
+<H3>
 Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width=20 /> I'm Arsany Mounir, a Computer Engineer with a passion for Embedded Systems. I'm all about coding, building projects, and diving deep into the latest tech. 
 I love researching and learning, and I'm on a mission to make my mark as an Embedded Software Developer. Let's connect and geek out over code! 🚀💻
-
+</H3>
 <p align="center">
   <a href="mailto:Arsanyashrafmounir@gmail.com">
     <img title="Email" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
