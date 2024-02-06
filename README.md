@@ -1,5 +1,5 @@
 <p align="center">    
-         <img  src="https://s13.gifyu.com/images/SC4Y5.gif"width=500/>
+         <img  src="https://s13.gifyu.com/images/SC4Y5.gif"width=300/>
 </p>
 
 # About me  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=50 />
